@@ -31,3 +31,4 @@ int main()
     delete [] Ziggurat;
 
     return 0;
+}
