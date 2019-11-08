@@ -25,5 +25,5 @@ int main() {
     int n;
     cin >> n;
     cout << proper_fraction(n);
-    return 0
+    return 0;
 }
